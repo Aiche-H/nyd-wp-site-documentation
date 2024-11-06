@@ -5,7 +5,7 @@ Tämä on dokumenteetio wordpress sivustolle.
 ## sisällys luettelo
 
 * **[Johdanto](./00-johdanto.md)**
-* **[Suunnitelma](./02-työnvaiheet.md)**
+* **[Suunnitelma](./01-suunnitelma.md)**
 * **[Työnvaiheet](./02-työnvaiheet.md)**
 * **[Käyttöönotto](./03-käyttöönotto.md)**
 * **[Ylläpito](./04-ylläpito-ohjeet.md)**
