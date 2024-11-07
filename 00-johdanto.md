@@ -1,8 +1,8 @@
 # Johdanto
 
-Tämä työ keskittyy [verkkokaupan nimi] -verkkokaupan kehittämiseen, jonka tavoitteena on tehostaa [yrityksen nimi] Asiakkaan tuotteiden myyntiä. Asiakas on aiemmin myynyt tuotteitaan useilla eri alustoilla, kuten Tori.fi:ssä ja Facebook Marketplace:ssa, mikä on ollut aikaa vievää ja haasteellista hallita. Uuden verkkokaupan avulla Asiakas pyrkii keskittämään kaikki myyntitoimintonsa yhteen paikkaan, mikä helpottaa tuotteiden hallintaa, myynnin seurantaa ja asiakaspalvelua.
+Tämä työ keskittyy NYD -verkkokaupan kehittämiseen, jonka tavoitteena on tehostaa NYD Asiakkaan tuotteiden myyntiä. Asiakas on aiemmin myynyt tuotteitaan useilla eri alustoilla, kuten Tori.fi:ssä ja Facebook Marketplace:ssa, mikä on ollut aikaa vievää ja haasteellista hallita. Uuden verkkokaupan avulla Asiakas pyrkii keskittämään kaikki myyntitoimintonsa yhteen paikkaan, mikä helpottaa tuotteiden hallintaa, myynnin seurantaa ja asiakaspalvelua.
 
-Verkkokauppa on suunniteltu vastaamaan [yrityksen asiakkaiden] tarpeisiin tarjoamalla käyttäjäystävällisem käyttöliittymän jahelposti navigoitavan tuotevalikoiman. Uuden verkkokaupan avulla Asiakas voi myös parantaa asiakaskokemusta ja lisätä myyntiä.
+Verkkokauppa on suunniteltu vastaamaan yrityksen asiakkaiden tarpeisiin tarjoamalla käyttäjäystävällisem käyttöliittymän jahelposti navigoitavan tuotevalikoiman. Uuden verkkokaupan avulla Asiakas voi myös parantaa asiakaskokemusta ja lisätä myyntiä.
 
 ## **Verkkokaupan keskeiset toiminnot:**
 
@@ -24,5 +24,5 @@ Tämän verkkokauppaprojektin tavoitteena on:
 
 * **Henkilökohtaiset tavoitteet:**
   * Syventää ymmärrystä verkkokauppa-alustojen kehittämisestä
-  * Hankkia kokemusta [Wordpress ja WooCommerce] -alustan käytöstä
+  * Hankkia kokemusta Wordpress ja WooCommerce -alustan käytöstä
   * Kehittää projektin hallinta-taitoja

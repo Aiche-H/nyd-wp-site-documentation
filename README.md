@@ -15,3 +15,5 @@ Tämä on dokumenteetio wordpress sivustolle.
 * **[Mock up](./prototypes/mock-up.md)**
 
 * **[Itsearviointi](./06-itsearvionti.md)**
+
+* **[Raportti teköälyn käytöstä](./07-raportti-tekoälyn-käytöstä.md)**

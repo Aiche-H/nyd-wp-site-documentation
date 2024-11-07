@@ -15,19 +15,19 @@ olet saanut kyseisen alaluvun tekstin kirjoitettua.
 
 ### Miksi verkkopalvelu luodaan?
 
-Verkkopalvelu luodaan, jotta [yrityksen nimi] voi tehostaa myyntiä, parantaa asiakaskokemusta, automatisoida prosesseja. Sovelluksen avulla [yritys] pääsee eroon jatkuvasta päivttelystä muilla alustoilla.
+Verkkopalvelu luodaan, jotta NYD voi tehostaa myyntiä, parantaa asiakaskokemusta, automatisoida prosesseja. Verkkopalvelun avulla NYD pääsee eroon jatkuvasta päivttelystä usealla alustalla.
 
-#### Kohderyhmä
+### Kohderyhmä
 
-Sovelluksen kohderyhmänä ovat asiakkaat, työntekijät ja mahdollilset kumppanit. He käyttävät verkkopalvelua, jotta Asiakkaat voivat tehdä ostoksia helposti, seurata tilauksiaan ja kommunikoida yrityksen kanssa.
+Verkkopalvelun kohderyhmänä ovat asiakkaat, työntekijät ja mahdollilset kumppanit. He käyttävät verkkopalvelua, jotta Asiakkaat voivat tehdä ostoksia helposti, seurata tilauksiaan ja kommunikoida yrityksen kanssa.
 
-#### Aiemmat ratkaisut ja muutos
+### Aiemmat ratkaisut ja muutos
 
 **Nykytila:** Asiakas hoitaa asiakastilaukset pääasiassa sähköpostilla ja Excel-taulukoilla. Tämä johtaa helposti virheisiin, tiedon häviämiseen ja vaikeuttaa tilausten seurantaa.
 
 **Uusi verkkopalvelu:** Uusi verkkopalvelu automatisoi tilausprosessin, tarjoaa keskitetyn näkymän kaikkiin tilauksiin ja mahdollistaa reaaliaikaisen seurannan.
 
-### Tavoitteet
+## Tavoitteet
 
 Verkkopalvelun tavoitteena on:
 
@@ -44,9 +44,8 @@ Verkkopalvelun tavoitteena on:
 3. **Helpottaa asiakaskommunikaatiota:**
    * Keskittää kaikki asiakasviestit yhteen paikkaan, jotta tiedot eivät häviä.
    * Mahdollistaa nopeamman ja tehokkaamman viestinnän asiakkaiden kanssa.
-   * Tarjota asiakkaille itsepalveluratkaisuja, kuten FAQ-osio ja tilaushistorian tarkastelu.
 
-**Lisäksi sovelluksen avulla voidaan saavuttaa seuraavia hyötyjä:**
+**Lisäksi Verkkopalvelun avulla voidaan saavuttaa seuraavia hyötyjä:**
 
 * **Parantaa asiakaskokemusta:** Asiakkaat saavat nopeampaa ja henkilökohtaisempaa palvelua.
 * **Lisätä myyntiä:** Tehokkaampi toiminta ja parempi asiakaskokemus voivat johtaa myynnin kasvuun.
@@ -60,7 +59,7 @@ Verkkopalvelun tavoitteena on:
 
 **Tärkeintä on, että verkkopalvelu tukee yrityksen liiketoimintatavoitteita ja helpottaa työntekijöiden arkea.**
 
-#### Toiminnallisuudet ja tekniset ratkaisut
+## Toiminnallisuudet ja tekniset ratkaisut
 
 **Asiakaspuolen toiminnot:**
 
@@ -99,12 +98,12 @@ Verkkopalvelun tavoitteena on:
 | Tuotteiden palautuspyynnöt | Lomake, joka lähettää tiedot automaattisesti | Nopeuttaa palautusprosessia |
 | Varastonhallinta | Integraatio kirjanpitojärjestelmään, reaaliaikainen varaston saldo | Vähentää sekaannuksia verrattuna moneen eri alustalla myyntiin |
 
-* **Käytettävyys:** Sovelluksen tulee olla helppokäyttöinen niin asiakkaille kuin työntekijöille.
+* **Käytettävyys:** Verkkopalvelun tulee olla helppokäyttöinen niin asiakkaille kuin työntekijöille.
 * **Turvallisuus:** Tietoturva on erityisen tärkeä, kun käsitellään asiakastietoja ja maksutapahtumia.
-* **Skaalautuvuus:** Sovelluksen tulee pystyä kasvamaan yrityksen mukana.
-* **Ylläpidettävyys:** Sovelluksen tulee olla helppo ylläpitää ja päivittää.
+* **Skaalautuvuus:** Verkkopalvelun tulee pystyä kasvamaan yrityksen mukana.
+* **Ylläpidettävyys:** Verkkopalvelun tulee olla helppo ylläpitää ja päivittää.
 
-### Graafinen linjaus
+## Graafinen linjaus
 
 * **Asiakkaan ydinarvot:** Luotettavuus, Kestävyys, yksinkertaisuus
 * **brändin persoonallisuus:** Moderni ja minimalistinen Musta-valkoinen yhdistelmä on usein liitetty moderniin ja minimalistiseen estetiikkaan. Se voi viestiä selkeydestä, tyylikkyydestä ja ajattomuudesta.
@@ -116,7 +115,7 @@ Verkkopalvelun tavoitteena on:
 * **Kuvitus ja ikonit:** Luo tai valitse kuvitusta ja ikoneita, jotka ovat visuaalisesti kiinnostavia ja tukevat brändin tarinaa.
 * **Kuviot ja tekstuurid:** Käytä kuvioita ja tekstureita luodaksesi syvyyttä ja mielenkiintoa suunnitteluun.
 
-### Jatkokehitysideat
+## Jatkokehitysideat
 
 Kirjoita ylös prosessin aikana tulleet ideat, joita - ei syystä tai toisesta – toteuteta tämän
 projektin aikana. Ideat lisäävät mahdollisuutta kasvattaa asiakastoimeksiantoa
@@ -125,16 +124,16 @@ toteuttamaan tässä vaiheessa.
 
 * **UKK-osio:** Luo usein kysytyt kysymykset -osio. tämä on mahdollista sen jälkeen kun on saatu jotain kontaktia asiakkaiden kanssa ensin
 
-### Esteettömyys ja käytettävyys
+## Esteettömyys ja käytettävyys
 
-Saavutettavuusdirektiivi korostaa, että digitaaliset palvelut tulee suunnitella siten, että ne ovat mahdollisimman monelle käyttäjälle saavutettavia. Tämä tarkoittaa, että sovelluksen tulee olla helppokäyttöinen kaikille, myös henkilöille, joilla on esimerkiksi näkö-, kuulo- tai liikuntarajoitteita.
+Saavutettavuusdirektiivi korostaa, että digitaaliset palvelut tulee suunnitella siten, että ne ovat mahdollisimman monelle käyttäjälle saavutettavia. Tämä tarkoittaa, että Verkkopalvelun tulee olla helppokäyttöinen kaikille, myös henkilöille, joilla on esimerkiksi näkö-, kuulo- tai liikuntarajoitteita.
 
 ### Visuaalinen toteutus
 
 * **Värit:** Varmista, että väriyhdistelmät ovat riittävän kontrastit, jotta teksti erottuu taustasta. Käytä värisokeutta huomioivia paleteja.
 * **Typografia:** Valitse selkeät ja helppolukuiset fontit, riittävän suuri fonttikoko ja riittävä rivinväli. Vältä koristeellisia fontteja.
 * **Kuvat ja grafiikka:** Käytä kuvatekstejä ja vaihtoehtoisia tekstejä kuville. Varmista, että kuvat ovat selkeitä ja informatiivisia.
-* **Sijoittelu:** Käytä selkeää ja loogista sivurakennetta. Hyödynnä valikoita ja välilehtiä, joiden avulla käyttäjä voi liikkua sovelluksessa helposti.
+* **Sijoittelu:** Käytä selkeää ja loogista sivurakennetta. Hyödynnä valikoita ja välilehtiä, joiden avulla käyttäjä voi liikkua verkkopalvelussa helposti.
 * **Riittävä tila:** Varmista, että painikkeiden ja muiden elementtien välillä on riittävästi tilaa, jotta niitä on helppo käyttää.
 
 ### Toiminnallisuudet
@@ -143,7 +142,7 @@ Saavutettavuusdirektiivi korostaa, että digitaaliset palvelut tulee suunnitella
 * **Kosketusnäyttö:** Optimoi verkkopalvelu kosketusnäytön käyttöön. Varmista, että painikkeet ovat riittävän suuria.
 * **Ääniohjaus:** Harkitse ääniohjauksen mahdollistamista.
 * **Erilaiset laitteet:** Testaa verkkopalvelu eri laitteilla ja selaimilla.
-* **Hidas latausaika:** Optimoi sovelluksen latausaika, jotta käyttäjän kärsivällisyys ei koitu.
+* **Hidas latausaika:** Optimoi Verkkopalvelun latausaika, jotta käyttäjän kärsivällisyys ei koitu.
 
 ### Haasteet ja niiden ratkaisut
 
@@ -164,9 +163,9 @@ On tärkeää tuntea verkkopalvelun käyttäjäkohderyhmä, jotta voidaan suunni
 
 Esteettömyys ja käytettävyys ovat keskeisiä tekijöitä, kun suunnitellaan verkkopalvelua. Huomioimalla kaikki käyttäjät ja heidän erityistarpeensa, voidaan luoda verkkopalvelu, joka on miellyttävä ja helppokäyttöinen kaikille.
 
-### Tietoturva
+## Tietoturva
 
-#### Tietoturvan huomioiminen verkkokaupassa
+### Tietoturvan huomioiminen verkkokaupassa
 
 **1. Tiedon salaus:**
 
@@ -177,7 +176,7 @@ Esteettömyys ja käytettävyys ovat keskeisiä tekijöitä, kun suunnitellaan v
 * **Ohjelmistot ja lisäosat päivitetään säännöllisesti:** Tämä varmistaa, että mahdolliset tietoturva-aukot korjataan nopeasti.
 * **Verkkoalustan päivitykset:** Seurataan aktiivisesti verkkokauppa-alustan päivityksiä ja varmistetaan, että ne asennetaan ajoissa.
 
-**3. Palomuurit ja muut suojausmekanismit:**
+**3. Muut suojausmekanismit:**
 
 * **Intruusiontunnistusjärjestelmät:** Seurataan epäilyttävää toimintaa palvelimilla.
 
@@ -185,7 +184,7 @@ Esteettömyys ja käytettävyys ovat keskeisiä tekijöitä, kun suunnitellaan v
 
 * **Säännölliset varmuuskopiot:** Varmistaaksemme, että tiedot voidaan palauttaa, jos järjestelmässä tapahtuu häiriöitä.
 
-#### Mahdolliset tietoturvaongelmat ja niiden ennaltaehkäisy
+### Mahdolliset tietoturvaongelmat ja niiden ennaltaehkäisy
 
 * **Tietovuoto:**
   * **Ennaltaehkäisy:** Rajoitetaan pääsyä herkkiin tietoihin, käytetään vahvoja salasanoja ja seurataan järjestelmälokikirjoja.
@@ -196,7 +195,7 @@ Esteettömyys ja käytettävyys ovat keskeisiä tekijöitä, kun suunnitellaan v
 * **Ohjelmistovirheet:**
   * **Ennaltaehkäisy:** Perusteellinen testaus ja säännölliset päivitykset.
 
-#### Miten nämä ongelmat voidaan huomioida ja mahdollisesti ennaltaehkäistä?
+### Miten nämä ongelmat voidaan huomioida ja mahdollisesti ennaltaehkäistä?
 
 * **Riskianalyysi:** Säännöllinen riskianalyysi auttaa tunnistamaan mahdolliset tietoturvaheikkoudet.
 * **Tietoturva-auditointi:** Ulkopuolinen tietoturva-auditointi voi paljastaa yllättäviä haavoittuvuuksia.
@@ -204,9 +203,9 @@ Esteettömyys ja käytettävyys ovat keskeisiä tekijöitä, kun suunnitellaan v
 * **Varmuuskopioiden testaus:** Säännöllinen varmuuskopioiden testaus varmistaa, että tiedot voidaan palauttaa tarvittaessa.
 * **Yhteistyö palveluntarjoajan kanssa:** Hyvä yhteistyö palveluntarjoajan kanssa on tärkeää, jotta voidaan varmistaa palveluiden tietoturva.
 
-### Käyttötapaus
+## Käyttötapaukset
 
-#### Käyttötapaus 1: Anna, käsityöharrastaja
+### Käyttötapaus 1: Anna, käsityöharrastaja
 
 **Tausta:** Anna on 35-vuotias grunge-tyylinen intohimoinen pukeutuja, joka etsii jatkuvasti uniikkeja asusteita täydentämään tyyliään. Hän seuraa aktiivisesti muotiblogeja ja -verkostoja löytääkseen tuoreimmat trendit.
 
@@ -251,43 +250,43 @@ Anna on erittäin tyytyväinen löytämäänsä laukkuun. Hän kokee, että lauk
 **Tunteet ja asenteet:**
 Omistaja on helpottunut, kun hän onnistuu lisäämään ensimmäisen tuotteen. Hän on innoissaan siitä, että voi nyt helposti hallinnoida verkkokauppaansa.
 
-### Haasteiden tunnistus
+## Haasteiden tunnistus
 
-**Verkkokaupan, joka myy nahkakäsitöitä ja käytettyjä tuotteita, voi kohdata seuraavia haasteita:**
+**Verkkokauppa, joka myy nahkakäsitöitä ja käytettyjä tuotteita, voi kohdata seuraavia haasteita:**
 
-#### Tuotekuvausten ja -tietojen hallinta
+### Tuotekuvausten ja -tietojen hallinta
 
 * **Tuotteiden yksilöllisyys:** Jokainen käytetty tuote on uniikki, mikä vaatii yksityiskohtaisia kuvauksia ja mahdollisesti lisätietoja tuotteen kunnosta ja historiasta.
 * **Tekniset tiedot:** Nahkatuotteiden kohdalla voi olla tarve ilmoittaa nahan tyyppi, hoito-ohjeet ja muut tekniset tiedot.
 * **Kokojen ja mittojen ilmoittaminen:** Käytettyjen vaatteiden ja asusteiden kohdalla on tärkeää ilmoittaa tarkat koot ja mitat.
 
-#### Tuotekuvien laatu
+### Tuotekuvien laatu
 
 * **Valokuvaus:** Hyvät tuotekuvat ovat erityisen tärkeitä, jotta asiakas saa realistisen käsityksen tuotteen kunnosta ja ulkonäöstä.
 * **Erilaiset materiaalit:** Nahka, tekstiilit ja muut materiaalit vaativat erilaista valaistusta ja kuvaustekniikkaa.
 
-#### Logistiikka ja varastointi
+### Logistiikka ja varastointi
 
 * **varasto tilan puute:** aloittelevalla yrittäjällä ei riitä budjetti varasto toimintaan joten on haasteelista pitää kirjaa varaston tilasta.
 * **Toimitukset:** pien yyrittäjänä joudumme kuottamaan postiin ja muihin yleisiin kuljetus menetelmiin jolloin mentämme hallinnan kuljetus prosessista.
 
-#### Asiakaspalautukset
+### Asiakaspalautukset
 
 * **Käytetyt tuotteet:** Käytettyjen tuotteiden palautukset voivat olla monimutkaisempia, erityisesti jos tuote on vaurioitunut kuljetuksen aikana.
 * **Hygieniasyyt:** Vaatteiden ja asusteiden palautukset voivat aiheuttaa hygieniallisia haasteita.
 
-#### Kilpailu
+### Kilpailu
 
 * **Monipuoliset verkkokaupat:** Kilpailu on kovaa, ja monissa verkkokaupoissa on laaja valikoima käytettyjä ja uusia tuotteita.
 * **Hinnat:** On tärkeää löytää oikea hinnoittelu, joka houkuttelee asiakkaita mutta on myös kannattava.
 
-#### Tekniset haasteet
+### Tekniset haasteet
 
 * **Verkkoalusta:** Sopivan verkkokauppa-alustan valinta on tärkeää, jotta voidaan hallita erilaisia tuotteita ja niihin liittyviä tietoja.
 * **Maksujärjestelmät:** Turvallisten ja luotettavien maksutapojen integrointi.
 * **Hakukoneoptimointi:** Verkkokaupan näkyvyyden parantaminen hakukoneissa.
 
-#### Miten näihin haasteisiin voidaan vastata?
+### Miten näihin haasteisiin voidaan vastata?
 
 * **Yksityiskohtaiset tuotetiedot:** Käytä attribuutteja, kuten koko, väri, materiaali, kunto ja lisätiedot.
 * **Laadukkaat tuotekuvat:** Investoi hyvään kameraan ja valaistukseen.
@@ -296,40 +295,40 @@ Omistaja on helpottunut, kun hän onnistuu lisäämään ensimmäisen tuotteen. 
 * **Asiakaspalvelu:** Tarjoa nopeaa ja ystävällistä asiakaspalvelua.
 * **Markkinointi:** Hyödynnä sosiaalista mediaa, sähköpostimarkkinointia ja muita kanavia tavoittaaksesi kohderyhmäsi.
 
-### Aikataulu
+## Aikataulu
 
-#### Vaihe 1: Suunnittelu (viikko 45-46)
+### Vaihe 1: Suunnittelu (viikko 45-46)
 
 * **Vaatimusten määrittely:** Määritellään tarkasti, mitä verkkokaupan tulee tehdä (tuotteet, maksutavat, toimitustavat jne.). (2-3 päivää)
 * **Visuaalisen ilmeen suunnittelu:** Luodaan konsepti verkkokaupan ulkoasusta (logot, värit, typografia). (3-4 päivää)
 * **Sivustorakenteen suunnittelu:** Suunnitellaan sivuston rakenne ja sivut (etusivu, tuotesivut, kategoria-sivut, yhteystiedot jne.). (2-3 päivää)
 
-#### Vaihe 2: WordPress-ympäristön valmistelu (viikko 47)
+### Vaihe 2: WordPress-ympäristön valmistelu (viikko 47)
 
 * **WordPress-teeman valinta ja asennus:** Valitaan ja asennetaan sopiva verkkokauppa-teema. (2 päivää)
 * **Lisäosien asennus:** Asennetaan tarvittavat lisäosat (maksutavat, toimitustavat, SEO jne.). (2 päivää)
 
-#### Vaihe 3: Tuotteiden lisääminen (viikko 48-49)
+### Vaihe 3: Tuotteiden lisääminen (viikko 48-49)
 
 * **Tuotteiden tuonti:** Tuodaan tuotteet esimerkiksi CSV-tiedostosta. (3-4 päivää)
 * **Kategorioiden luominen:** Luodaan tuoteryhmät ja alaluokat. (2 päivää)
 
-#### Vaihe 4: Maksu- ja toimitustapojen määrittäminen (viikko 50)
+### Vaihe 4: Maksu- ja toimitustapojen määrittäminen (viikko 50)
 
 * **Maksutapajen integrointi:** Integroidaan halutut maksutavat (esim. PayPal, Stripe). (2-3 päivää)
 * **Toimitustapojen määrittäminen:** Määritellään toimitustavat ja -kulut. (1-2 päivää)
 
-#### Vaihe 5: Testaus ja optimointi (viikko 51)
+### Vaihe 5: Testaus ja optimointi (viikko 51)
 
 * **Toiminnallisuuksien testaus:** Testataan kaikki verkkokaupan toiminnot (ostoskori, maksu, rekisteröityminen). (3-4 päivää)
 * **SEO-optimointi:** Optimoidaan sivusto hakukoneille (avainsanat, metatieto). (2 päivää)
 * **Responsiivisuuden testaus:** Varmistaan, että verkkokauppa toimii hyvin eri laitteilla. (1 päivä)
 
-#### Vaihe 6: Julkaisu ja seuranta (viikko 52)
+### Vaihe 6: Julkaisu ja seuranta (viikko 52)
 
 * **Verkkokaupan julkaisu:** Julkaistaan verkkokauppa tuotantoympäristöön. (1 päivä)
-* **Analytiikkatyökalujen asennus:** Asennetaan Google Analytics ja muut tarvittavat työkalut. (1 päivä)
-* **Koulutus:** Koulutetaan asiakas verkkokaupan käyttöön. (1 päivä)
+* **Analytiikkatyökalujen asennus:** Asennetaan muut tarvittavat työkalut. (1 päivä)
+* **Koulutus:** Koulutetaan asiakas verkkokaupan käyttöön. (2 päivää)
 
 **Taulukkoesitys:**
 
