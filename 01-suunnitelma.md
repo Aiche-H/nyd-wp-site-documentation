@@ -299,36 +299,36 @@ Omistaja on helpottunut, kun hän onnistuu lisäämään ensimmäisen tuotteen. 
 
 ### Vaihe 1: Suunnittelu (viikko 45-46)
 
-* **Vaatimusten määrittely:** Määritellään tarkasti, mitä verkkokaupan tulee tehdä (tuotteet, maksutavat, toimitustavat jne.). (2-3 päivää)
-* **Visuaalisen ilmeen suunnittelu:** Luodaan konsepti verkkokaupan ulkoasusta (logot, värit, typografia). (3-4 päivää)
-* **Sivustorakenteen suunnittelu:** Suunnitellaan sivuston rakenne ja sivut (etusivu, tuotesivut, kategoria-sivut, yhteystiedot jne.). (2-3 päivää)
+* **Vaatimusten määrittely:** Määritellään tarkasti, mitä verkkokaupan tulee tehdä (tuotteet, maksutavat, toimitustavat jne.). 
+* **Visuaalisen ilmeen suunnittelu:** Luodaan konsepti verkkokaupan ulkoasusta (logot, värit, typografia).
+* **Sivustorakenteen suunnittelu:** Suunnitellaan sivuston rakenne ja sivut (etusivu, tuotesivut, kategoria-sivut, yhteystiedot jne.).
 
 ### Vaihe 2: WordPress-ympäristön valmistelu (viikko 47)
 
-* **WordPress-teeman valinta ja asennus:** Valitaan ja asennetaan sopiva verkkokauppa-teema. (2 päivää)
-* **Lisäosien asennus:** Asennetaan tarvittavat lisäosat (maksutavat, toimitustavat, SEO jne.). (2 päivää)
+* **WordPress-teeman valinta ja asennus:** Valitaan ja asennetaan sopiva verkkokauppa-teema.
+* **Lisäosien asennus:** Asennetaan tarvittavat lisäosat (maksutavat, toimitustavat, SEO jne.).
 
 ### Vaihe 3: Tuotteiden lisääminen (viikko 48-49)
 
-* **Tuotteiden tuonti:** Tuodaan tuotteet esimerkiksi CSV-tiedostosta. (3-4 päivää)
-* **Kategorioiden luominen:** Luodaan tuoteryhmät ja alaluokat. (2 päivää)
+* **Tuotteiden tuonti:** Tuodaan tuotteet esimerkiksi CSV-tiedostosta.
+* **Kategorioiden luominen:** Luodaan tuoteryhmät ja alaluokat.
 
 ### Vaihe 4: Maksu- ja toimitustapojen määrittäminen (viikko 50)
 
-* **Maksutapajen integrointi:** Integroidaan halutut maksutavat (esim. PayPal, Stripe). (2-3 päivää)
-* **Toimitustapojen määrittäminen:** Määritellään toimitustavat ja -kulut. (1-2 päivää)
+* **Maksutapajen integrointi:** Integroidaan halutut maksutavat (esim. PayPal, Stripe).
+* **Toimitustapojen määrittäminen:** Määritellään toimitustavat ja -kulut.
 
 ### Vaihe 5: Testaus ja optimointi (viikko 51)
 
-* **Toiminnallisuuksien testaus:** Testataan kaikki verkkokaupan toiminnot (ostoskori, maksu, rekisteröityminen). (3-4 päivää)
-* **SEO-optimointi:** Optimoidaan sivusto hakukoneille (avainsanat, metatieto). (2 päivää)
-* **Responsiivisuuden testaus:** Varmistaan, että verkkokauppa toimii hyvin eri laitteilla. (1 päivä)
+* **Toiminnallisuuksien testaus:** Testataan kaikki verkkokaupan toiminnot (ostoskori, maksu, rekisteröityminen).
+* **SEO-optimointi:** Optimoidaan sivusto hakukoneille (avainsanat, metatieto).
+* **Responsiivisuuden testaus:** Varmistaan, että verkkokauppa toimii hyvin eri laitteilla.
 
 ### Vaihe 6: Julkaisu ja seuranta (viikko 52)
 
-* **Verkkokaupan julkaisu:** Julkaistaan verkkokauppa tuotantoympäristöön. (1 päivä)
-* **Analytiikkatyökalujen asennus:** Asennetaan muut tarvittavat työkalut. (1 päivä)
-* **Koulutus:** Koulutetaan asiakas verkkokaupan käyttöön. (2 päivää)
+* **Verkkokaupan julkaisu:** Julkaistaan verkkokauppa tuotantoympäristöön.
+* **Analytiikkatyökalujen asennus:** Asennetaan muut tarvittavat työkalut.
+* **Koulutus:** Koulutetaan asiakas verkkokaupan käyttöön.
 
 **Taulukkoesitys:**
 
