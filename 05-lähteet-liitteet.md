@@ -8,10 +8,9 @@ lähdeaineistoista. Lähdeluettelossa mainittuihin aineistoihin viitataan teksti
 Voit käyttää sinulle tuttua lähdeviittaustekniikkaa. Tässä raporttipohjassa käytetty
 lähdeviittaustekniikka Chicago on selkeä, ja ohjeistus siihen löytyy esimerkiksi täältä.
 Esimerkki lähdeviiteluetteloon merkittävästä verkko-osoitteesta:
-JAMK (10.5.2022). Opinnäytetyön rakenne. <https://oppimateriaalit.jamk.fi/raportointiohje/4->
-opinnaytetyon-rakenne/
+JAMK (10.5.2022).
 
-[raportointi pohja](https://www.taitoforum.fi/pluginfile.php/451775/mod_label/intro/Esimerkki_raportista_VTT.pdf?time=1695372840872)
+- [raportointi pohja](https://www.taitoforum.fi/pluginfile.php/451775/mod_label/intro/Esimerkki_raportista_VTT.pdf?time=1695372840872)
 
 ## Liitteet
 

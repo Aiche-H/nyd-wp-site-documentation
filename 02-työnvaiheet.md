@@ -1,5 +1,18 @@
 # Työvaiheet
 
+- [Työvaiheet](#työvaiheet)
+  - [Vaihe 1: Suunnittelu (viikko 45-46)](#vaihe-1-suunnittelu-viikko-45-46)
+    - [**Vaatimusten määrittely:**](#vaatimusten-määrittely)
+    - [**Visuaalisen ilmeen suunnittelu:**](#visuaalisen-ilmeen-suunnittelu)
+    - [**Sivustorakenteen suunnittelu:**](#sivustorakenteen-suunnittelu)
+  - [Vaihe 2: WordPress-ympäristön valmistelu (viikko 47)](#vaihe-2-wordpress-ympäristön-valmistelu-viikko-47)
+    - [**WordPress-teeman valinta ja asennus:**](#wordpress-teeman-valinta-ja-asennus)
+    - [**Lisäosien asennus:**](#lisäosien-asennus)
+  - [Vaihe 3: Tuotteiden lisääminen (viikko 48-49)](#vaihe-3-tuotteiden-lisääminen-viikko-48-49)
+  - [Vaihe 4: Maksu- ja toimitustapojen määrittäminen (viikko 50)](#vaihe-4-maksu--ja-toimitustapojen-määrittäminen-viikko-50)
+  - [Vaihe 5: Testaus ja optimointi (viikko 51)](#vaihe-5-testaus-ja-optimointi-viikko-51)
+  - [Vaihe 6: Julkaisu ja seuranta (viikko 52)](#vaihe-6-julkaisu-ja-seuranta-viikko-52)
+
 Kun suunnitelma on valmis, on aika aloittaa sovelluksen toteuttaminen. Pidä sovelluksen
 työstämisen ajan työpäiväkirjaa. Kirjaa työpäiväkirjaan jokainen päivä, jolloin olet projektia
 työstänyt, ja liitä mukaan lyhyt kuvaus siitä, mitä olet päivän aikana tehnyt.
@@ -16,24 +29,24 @@ Määritellään tarkasti, mitä verkkokaupan tulee tehdä (tuotteet, maksutavat
 
 Verkkokaupan toiminnallisuudet on määritelty alustavasti vastaamaan nykyisiä tarpeita. Tavoitteena on tarjota asiakkaille selkeä ja toimiva ostokokemus.
 
-* **Tuotevalikoima:** Verkkokaupan tuotevalikoima on dynaaminen, ja sitä päivitetään jatkuvasti koska käytetyt esineet ovat vaihtuvia.
-* **Maksutavat:** Tällä hetkellä hyväksytään lasku ja maksu noudettaessa. Muita maksutapoja, kuten verkkopankkimaksua, voidaan lisätä tarvittaessa, kun liikevaihto kasvaa ja se koetaan tarpeelliseksi.
-* **Toimitustavat:** Tuotteet toimitetaan joko noudettuna myymälästä tai postipakettina.
+- **Tuotevalikoima:** Verkkokaupan tuotevalikoima on dynaaminen, ja sitä päivitetään jatkuvasti koska käytetyt esineet ovat vaihtuvia.
+- **Maksutavat:** Tällä hetkellä hyväksytään lasku ja maksu noudettaessa. Muita maksutapoja, kuten verkkopankkimaksua, voidaan lisätä tarvittaessa, kun liikevaihto kasvaa ja se koetaan tarpeelliseksi.
+- **Toimitustavat:** Tuotteet toimitetaan joko noudettuna myymälästä tai postipakettina.
 
 **Perustelut:**
 
 Päätös rajata maksutavat ja toimitustavat tällä hetkellä perustuu seuraaviin tekijöihin:
 
-* **Pieni liikevaihto ja paikallinen asiakaskunta:** Nykyinen asiakaskunta suosii pääasiassa käteismaksuja ja noutoa myymälästä.
-* **Tietoturva:** Verkkopankkimaksun lisääminen vaatii panostuksia tietoturvaan, mikä ei ole perusteltua nykyisellä liikevaihdolla.
+- **Pieni liikevaihto ja paikallinen asiakaskunta:** Nykyinen asiakaskunta suosii pääasiassa käteismaksuja ja noutoa myymälästä.
+- **Tietoturva:** Verkkopankkimaksun lisääminen vaatii panostuksia tietoturvaan, mikä ei ole perusteltua nykyisellä liikevaihdolla.
 
 **Jatkokehitys:**
 
 Verkkokaupan toiminnallisuuksia kehitetään jatkuvasti muuttuvien tarpeiden mukaisesti. Tulevaisuudessa voidaan harkita seuraavia muutoksia:
 
-* **Lisää maksutapoja:** Verkkopankkimaksun lisääminen, kun liikevaihto kasvaa ja tietoturva on kunnossa.
-* **Kansainvälinen toimitus:** Jos tavoitteena on laajentaa toimintaa ulkomaille, on toimitustapoja laajennettava.
-* **Integrointi muihin järjestelmiin:** Esimerkiksi kirjanpito- tai varastojärjestelmään.
+- **Lisää maksutapoja:** Verkkopankkimaksun lisääminen, kun liikevaihto kasvaa ja tietoturva on kunnossa.
+- **Kansainvälinen toimitus:** Jos tavoitteena on laajentaa toimintaa ulkomaille, on toimitustapoja laajennettava.
+- **Integrointi muihin järjestelmiin:** Esimerkiksi kirjanpito- tai varastojärjestelmään.
 
 **Arviointi:**
 
@@ -67,27 +80,27 @@ Suunnitellaan sivuston rakenne ja sivut (etusivu, tuotesivut, kategoria-sivut, y
 
 Verkkokaupan sivurakenne on suunniteltu yksinkertaiseksi ja selkeäksi, vastaten pienimuotoisen verkkokaupan tarpeisiin. Sivusto on jaettu seuraaviin pääosiin:
 
-* **Etusivu:** Toimii verkkokaupan pääsisäänkäyntinä ja esittelee yrityksen tärkeimmät ominaisuudet.
-* **kaupppa-sivu:** jossa Tuotteiden kategorioittainen haku ja selaus.
-* **Historia-sivu:** Yrityksen taustan ja arvojen esittely.
-* **Yhteydenottolomake:** Asiakkaan mahdollisuus ottaa yhteyttä yritykseen.
-* **Palautuslomake:** Ohjeet tuotteiden palauttamiseen.
-* **Tietosuojaseloste:** Selvitys henkilötietojen käsittelystä.
-* **Palautusohjeet:** Yksityiskohtaiset ohjeet tuotteiden palauttamiseen.
+- **Etusivu:** Toimii verkkokaupan pääsisäänkäyntinä ja esittelee yrityksen tärkeimmät ominaisuudet.
+- **kaupppa-sivu:** jossa Tuotteiden kategorioittainen haku ja selaus.
+- **Historia-sivu:** Yrityksen taustan ja arvojen esittely.
+- **Yhteydenottolomake:** Asiakkaan mahdollisuus ottaa yhteyttä yritykseen.
+- **Palautuslomake:** Ohjeet tuotteiden palauttamiseen.
+- **Tietosuojaseloste:** Selvitys henkilötietojen käsittelystä.
+- **Palautusohjeet:** Yksityiskohtaiset ohjeet tuotteiden palauttamiseen.
 
 **Perustelut:**
 
 Tämä sivurakenne on valittu, koska se on:
 
-* **Selkeä ja helppokäyttöinen:** Asiakas löytää tarvitsemansa tiedot helposti.
-* **Tehokas:** Sivusto on helppo ylläpitää.
-* **Yhteensopiva:** Rakenne soveltuu hyvin pienimuotoisen verkkokaupan tarpeisiin.
+- **Selkeä ja helppokäyttöinen:** Asiakas löytää tarvitsemansa tiedot helposti.
+- **Tehokas:** Sivusto on helppo ylläpitää.
+- **Yhteensopiva:** Rakenne soveltuu hyvin pienimuotoisen verkkokaupan tarpeisiin.
 
 **Lisähuomioita:**
 
-* **Sisällön hallintajärjestelmä:** Sivuston rakenne on suunniteltu siten, että sisältöä on helppo päivittää ja muokata sisällönhallintajärjestelmän avulla.
-* **Hakukoneoptimointi (SEO):** Sivuston rakenne on suunniteltu tukemaan hakukoneoptimointia, jotta tuotteet löytyvät helposti hakukoneista.
-* **Käytettävyys:** Sivuston navigointi on suunniteltu selkeäksi, jotta asiakas löytää tarvitsemansa tiedot mahdollisimman nopeasti.
+- **Sisällön hallintajärjestelmä:** Sivuston rakenne on suunniteltu siten, että sisältöä on helppo päivittää ja muokata sisällönhallintajärjestelmän avulla.
+- **Hakukoneoptimointi (SEO):** Sivuston rakenne on suunniteltu tukemaan hakukoneoptimointia, jotta tuotteet löytyvät helposti hakukoneista.
+- **Käytettävyys:** Sivuston navigointi on suunniteltu selkeäksi, jotta asiakas löytää tarvitsemansa tiedot mahdollisimman nopeasti.
 
 **Yhteenveto:**
 
@@ -101,10 +114,10 @@ Valitaan ja asennetaan sopiva verkkokauppa-teema.
 
 Verkkokauppaprojektiin valittiin WordPress-teemaksi Twenty Twenty-Four. Päätös perustui seuraaviin seikkoihin:
 
-* **Asiakkaan mieltymys:** Asiakas näki useita vaihtoehtoja ja koki Twenty Twenty-Four -teeman ulkoasun sopivaksi verkkokaupan visuaaliseen ilmeeseen.
-* **Mukautettavuus:** Vaikka teema on yksinkertainen, se tarjoaa riittävät mahdollisuudet muokkaamiseen. Oma CSS-koodin tarve jäi minimaaliseksi, mikä helpottaa tulevaisuuden ylläpitoa ja päivityksiä.
-* **Yhteensopivuus:** Teema on täysin yhteensopiva WooCommerce-lisäosan kanssa, eikä aiheuttanut ongelmia verkkokaupan toiminnallisuuksien kanssa.
-* **Päivitykset:** Koska kyseessä on WordPressin oma teema, voidaan olettaa, että sitä päivitetään aktiivisesti pitkään, mikä takaa turvallisuuden ja yhteensopivuuden uusimpien WordPress-versioiden kanssa.
+- **Asiakkaan mieltymys:** Asiakas näki useita vaihtoehtoja ja koki Twenty Twenty-Four -teeman ulkoasun sopivaksi verkkokaupan visuaaliseen ilmeeseen.
+- **Mukautettavuus:** Vaikka teema on yksinkertainen, se tarjoaa riittävät mahdollisuudet muokkaamiseen. Oma CSS-koodin tarve jäi minimaaliseksi, mikä helpottaa tulevaisuuden ylläpitoa ja päivityksiä.
+- **Yhteensopivuus:** Teema on täysin yhteensopiva WooCommerce-lisäosan kanssa, eikä aiheuttanut ongelmia verkkokaupan toiminnallisuuksien kanssa.
+- **Päivitykset:** Koska kyseessä on WordPressin oma teema, voidaan olettaa, että sitä päivitetään aktiivisesti pitkään, mikä takaa turvallisuuden ja yhteensopivuuden uusimpien WordPress-versioiden kanssa.
 
 **Vertailtuja vaihtoehtoja:**
 
@@ -120,22 +133,22 @@ Asennetaan tarvittavat lisäosat (maksutavat, toimitustavat, SEO jne.).
 
 ## Vaihe 3: Tuotteiden lisääminen (viikko 48-49)
 
-* **Tuotteiden tuonti:** Tuodaan tuotteet esimerkiksi CSV-tiedostosta.
-* **Kategorioiden luominen:** Luodaan tuoteryhmät ja alaluokat.
+- **Tuotteiden tuonti:** Tuodaan tuotteet esimerkiksi CSV-tiedostosta.
+- **Kategorioiden luominen:** Luodaan tuoteryhmät ja alaluokat.
 
 ## Vaihe 4: Maksu- ja toimitustapojen määrittäminen (viikko 50)
 
-* **Maksutapajen integrointi:** Integroidaan halutut maksutavat (esim. PayPal, Stripe).
-* **Toimitustapojen määrittäminen:** Määritellään toimitustavat ja -kulut.
+- **Maksutapajen integrointi:** Integroidaan halutut maksutavat (esim. PayPal, Stripe).
+- **Toimitustapojen määrittäminen:** Määritellään toimitustavat ja -kulut.
 
 ## Vaihe 5: Testaus ja optimointi (viikko 51)
 
-* **Toiminnallisuuksien testaus:** Testataan kaikki verkkokaupan toiminnot (ostoskori, maksu, rekisteröityminen).
-* **SEO-optimointi:** Optimoidaan sivusto hakukoneille (avainsanat, metatieto).
-* **Responsiivisuuden testaus:** Varmistaan, että verkkokauppa toimii hyvin eri laitteilla.
+- **Toiminnallisuuksien testaus:** Testataan kaikki verkkokaupan toiminnot (ostoskori, maksu, rekisteröityminen).
+- **SEO-optimointi:** Optimoidaan sivusto hakukoneille (avainsanat, metatieto).
+- **Responsiivisuuden testaus:** Varmistaan, että verkkokauppa toimii hyvin eri laitteilla.
 
 ## Vaihe 6: Julkaisu ja seuranta (viikko 52)
 
-* **Verkkokaupan julkaisu:** Julkaistaan verkkokauppa tuotantoympäristöön.
-* **Analytiikkatyökalujen asennus:** Asennetaan muut tarvittavat työkalut.
-* **Koulutus:** Koulutetaan asiakas verkkokaupan käyttöön.
+- **Verkkokaupan julkaisu:** Julkaistaan verkkokauppa tuotantoympäristöön.
+- **Analytiikkatyökalujen asennus:** Asennetaan muut tarvittavat työkalut.
+- **Koulutus:** Koulutetaan asiakas verkkokaupan käyttöön.
