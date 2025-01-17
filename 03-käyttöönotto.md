@@ -1,6 +1,6 @@
 # Käyttöönotto
 
-**asiakas on päättänyt, että sovelluksen julkaisu on kehittäjän vastuulla, on hyvä dokumentoida tämä päätös selkeästi.** Tämä varmistaa, että kaikki osapuolet ovat samalla sivulla ja vältetään myöhemmät väärinkäsitykset.
+**asiakas on päättänyt, että sovelluksen julkaisu on kehittäjän vastuulla.** Tämä varmistaa, että kaikki osapuolet ovat samalla sivulla ja vältetään myöhemmät väärinkäsitykset.
 
 **Julkaisu**
 
