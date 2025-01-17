@@ -9,43 +9,27 @@
 * **Uusien tuotteiden lisääminen:** Lisää uusia tuotteita intuitiivisen käyttöliittymän avulla. Määritä tuotteen nimi, kuvaus, hinta, varasto, kategoriat ja muut olennaiset tiedot.
     * !["Adding a product"](https://pluginrepublic.com/wp-content/uploads/2019/08/woocommerce-product-add-new.jpeg)
 * **Tuotevariantit:** Hallinnoi tuotteiden eri variaatioita (koko, väri jne.).
-    * [Image of Creating product variations in WooCommerce]
+    * !["product variables"](https://woocommerce.com/wp-content/uploads/2024/04/create-variable-product-woocommerce.gif)
 
 #### 2. Tilausten hallinta
 
 * **Tilausten käsittely:** Hyväksy tilaukset, pakkaa tuotteet ja merkitse tilaukset lähetetyiksi.
-    * [Image of Processing orders in WooCommerce]
+    * ![Image of Processing orders in WooCommerce](https://woocommerce.com/wp-content/uploads/2013/05/woocommerce-order-process-diagram.png)
 * **Palautusten käsittely:** Hallinnoi palautuksia ja hyvityksiä.
-    * [Image of Processing returns in WooCommerce]
-* **Asiakastietojen hallinta:** Hallinnoi asiakkaiden tietoja ja osoitteita.
-    * [Image of Managing customer information in WooCommerce]
+    * ![Image of Processing returns in WooCommerce](https://woocommerce.com/wp-content/uploads/2020/09/WooCommerceco_orders_orderrefund.png)
 
 #### 3. Maksutavat ja toimitustavat
 
 * **Maksutapojen asetukset:** Tarkista, että kaikki maksutavat toimivat oikein ja päivitä maksutapojen asetukset tarvittaessa.
-    * [Image of Managing payment gateways in WooCommerce]
+    * ![Image of Managing payment gateways in WooCommerce](https://d33v4339jhl8k0.cloudfront.net/docs/assets/558f9e89e4b01a224b42f278/images/6020c04ffb34b55df443e334/file-5Syp9lIDP2.png)
 * **Toimituskulut:** Määritä toimituskulut ja toimitustavat asiakkaille.
-    * [Image of Setting up shipping zones and rates in WooCommerce]
+    * ![Image of Setting up shipping zones and rates in WooCommerce](https://woocommerce.com/wp-content/uploads/2016/03/shipping-locations.png)
 
 #### 4. Varasto
 
 * **Varaston hallinta:** Seuraa tuotteiden varastotilannetta ja päivitä varastotiedot.
-    * [Image of Managing inventory in WooCommerce]
-* **Varoitusrajat:** Aseta varoitusrajat tuotteille, jotta tiedät milloin varastoa on täydennettävä.
 
-#### 5. Asiakkaat
-
-* **Asiakastilit:** Hallinnoi asiakkaiden tilejä ja sallii heidän hallinnoida omia tietoja.
-    * [Image of Managing customer accounts in WooCommerce]
-* **Asiakasryhmät:** Luo asiakasryhmiä ja tarjoa heille erilaisia alennuksia tai etuja.
-
-#### 6. Ulkoasu ja teema
-
-* **Ulkoasun muokkaaminen:** Muokkaa verkkokauppasi ulkoasua teeman asetuksien avulla.
-    * [Image of Customizing WooCommerce theme]
-* **Lisäosien käyttö:** Käytä lisäosia, jotka lisäävät toiminnallisuutta verkkokauppaasi.
-
-#### 7. Yleinen ylläpito
+#### 5. Yleinen ylläpito
 
 * **Varmuuskopiot:** Tee säännöllisiä varmuuskopioita verkkokaupastasi.
 * **Päivitykset:** Päivitä WordPress, WooCommerce ja muut lisäosat säännöllisesti.
@@ -65,11 +49,3 @@
 * **WooCommerce-raportit:** Tarkastele verkkokauppasi myyntiä, tuotteita ja asiakkaita
 
 **Näiden ohjeiden avulla voit pitää WooCommerce-verkkokauppasi kunnossa ja varmistaa, että se toimii sujuvasti.**
-
-**Haluatko lisätietoja jostakin tietystä aiheesta?** Voit kysyä esimerkiksi:
-
-* Miten yhdistän verkkokauppani sosiaaliseen mediaan?
-* Miten voin parantaa verkkokauppani mobiiliystävällisyyttä?
-* Miten voin luoda sähköpostimarkkinointikampanjan?
-
-**Voin myös laatia sinulle yksityiskohtaisemmat ohjeet, jotka perustuvat juuri sinun verkkokauppasi tarpeisiin.**
