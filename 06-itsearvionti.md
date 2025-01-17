@@ -1,8 +1,5 @@
 # Itsearviointi
 
-## Hienoa, että olet päässyt tavoitteeseesi! 
-
-Tässä sinulle ehdotus, miten voit sisällyttää tämän tiedon itsearviointiisi:
 
 **Kuinka hyvin pääsit tavoitteisiisi? Vastaako sovellus asiakkaan tarpeita? Onnistuitko omissa, henkilökohtaisissa tavoitteissasi?**
 
@@ -23,13 +20,3 @@ Suurimmat haasteet liittyivät projektin alkuvaiheeseen, kun tutustuin WordPress
 **Tiivistelmä**
 
 Tässä projektissa tavoitteena oli kehittää [sovelluksen nimi] -sovellus käyttäen WordPress-alustaa. Projektin aikana opittiin hallitsemaan WordPressin eri toimintoja ja ratkaisemaan erilaisia teknisiä haasteita. Vaikka projektin alkuvaiheessa kohtasi joitakin haasteita, lopputulos vastasi odotuksia ja asetettu tavoite saavutettiin. 
-
-**Muita ehdotuksia:**
-
-* **Ole tarkempi:** Voit kertoa tarkemmin, mitä teknisiä ongelmia kohtasit ja miten ratkaisit ne.
-* **Vertaa alkuperäisiin tavoitteisiin:** Vertaa tarkemmin, miten lopputulos vastaa alkuperäisiä tavoitteita.
-* **Heijasta tulevaan:** Mitä opit tästä projektista, mitä tekisit toisin seuraavassa projektissa?
-
-**Tällä tavoin voit tehdä itsearvioinnistasi entistä kattavamman ja informatiivisemman.**
-
-**Haluaisitko minun auttavan sinua vielä lisää?** Voit esimerkiksi kysyä, miten voit parantaa itsearviointisi kieltä tai rakennetta.
