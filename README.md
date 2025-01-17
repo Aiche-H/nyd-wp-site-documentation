@@ -11,9 +11,6 @@ Tämä on dokumenteetio wordpress sivustolle.
 * **[Ylläpito](./04-ylläpito-ohjeet.md)**
 * **[Lähteet/Litteet](./05-lähteet-liitteet.md)**
 
-* **[Wireframe](./prototypes/wire-frame.md)**
-* **[Mock up](./prototypes/mock-up.md)**
-
 * **[Itsearviointi](./06-itsearvionti.md)**
 
 * **[Raportti teköälyn käytöstä](./07-raportti-tekoälyn-käytöstä.md)**
