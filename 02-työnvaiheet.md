@@ -133,22 +133,116 @@ Asennetaan tarvittavat lisäosat (maksutavat, toimitustavat, SEO jne.).
 
 ## Vaihe 3: Tuotteiden lisääminen (viikko 48-49)
 
-- **Tuotteiden tuonti:** Tuodaan tuotteet esimerkiksi CSV-tiedostosta.
-- **Kategorioiden luominen:** Luodaan tuoteryhmät ja alaluokat.
+**Tuotteiden lisääminen manuaalisesti:**
+
+*   **Tuotteiden syöttö:** Koska käytössä ei ole aiempaa tuotetietokantaa, syötetään kaikki tuotetiedot (nimi, kuvaus, hinta, varasto, jne.) manuaalisesti WooCommerce-hallintapaneelin kautta.
+*   **Tuotekuvien lisääminen:** Jokaiselle tuotteelle lisätään laadukkaat tuotekuvat, jotka helpottavat asiakasta hahmottamaan tuotteen ominaisuudet.
+
+**Kategorioiden luominen ja hallinta:**
+
+*   **Alustavat kategoriat:** Viikoilla 48-49 luodaan alustavat tuoteryhmät ja alaluokat, jotka kattavat suurimmat tuotekategoriat.
+*   **Joustava kategorisointi:** Koska tuotevalikoima voi muuttua nopeasti, kategorioita tarkastellaan ja muokataan säännöllisesti. Uusia kategorioita luodaan tarpeen mukaan, jotta tuotteet löytyvät helposti.
+*   **Toistavaran erityispiirteet:** Otetaan huomioon toistavaran myynnin erityispiirteet kategorisoinnissa. Esimerkiksi voidaan luoda kategoria "Käytetyt elektroniikkatuotteet" ja sen alle alaluokat eri laitetyypeille.
+
+**Tämän vaiheen tavoitteena on:**
+
+*   Saada kaikki myytävät tuotteet näkyviin verkkokaupassa.
+*   Luoda selkeä ja looginen tuotekategorisointi, joka helpottaa asiakkaiden navigointia.
+*   Varustaa tuotteet tarvittavilla tiedoilla, kuten kuvauksilla ja kuvilla.
+
+**Huom:** Koska tuotevalikoima on aluksi vielä muotoutumassa, on tärkeää säilyttää joustavuus kategorioiden suhteen. Säännöllinen kategorioiden tarkastelu ja muokkaaminen varmistaa, että tuotteet löytyvät helposti ja asiakaskokemus on mahdollisimman hyvä.
 
 ## Vaihe 4: Maksu- ja toimitustapojen määrittäminen (viikko 50)
 
-- **Maksutapajen integrointi:** Integroidaan halutut maksutavat (esim. PayPal, Stripe).
-- **Toimitustapojen määrittäminen:** Määritellään toimitustavat ja -kulut.
+**Maksutavat:**
+
+*   **Nouto paikan päältä:** Säilytetään olemassa oleva noutotapa maksun yhteydessä.
+*   **Verkkopankkimaksut:** Integroidaan haluttu verkkopankkimaksupalvelu (esim. Checkout Finland, Stripe Connect) mahdollistamaan sujuvat verkkopankkimaksut.
+*   **Muut maksutavat:** Harkitaan muiden maksutapojen (esim. luottokortit, lasku) lisäämistä asiakaskunnan tarpeiden mukaan.
+
+**Toimitustavat:**
+
+*   **Nouto paikan päältä:** Pääasiallinen toimitustapa on edelleen nouto myyntipisteestä.
+*   **Postitus:** Jos asiakas toivoo postitusta, voidaan tarjota postituspalveluita (esim. Posti, Matkahuolto) ja määrittää niihin liittyvät kulut.
+*   **Muut toimitustavat:** Harkitaan muita toimitustapoja (esim. kuljetus yrityksen toimesta) tarpeen mukaan.
+
+**Tämän vaiheen tavoitteena on:**
+
+*   Tarjota asiakkaille joustavia maksuvaihtoehtoja.
+*   Määrittää selkeät toimitustavat ja niihin liittyvät kulut.
+*   Helpottaa kassaprosessia sekä asiakkaalle että myyjälle.
+
+**Huomiot:**
+
+*   **Maksutapojen valinta:** Valittavat maksutavat tulee valita huolella ottaen huomioon asiakaskunnan toiveet, verkkokaupan ominaisuudet ja kustannukset.
+*   **Toimituskulujen määrittäminen:** Toimituskulut tulee määrittää selkeästi ja läpinäkyvästi. Voidaan käyttää esimerkiksi paino- tai tilavuusperusteisia hinnoittelutapoja.
+*   **Maksujen käsittely:** Varmista, että valitut maksupalvelut integroituvat saumattomasti verkkokauppaan ja että maksujen käsittely on turvallista.
+*   **Toimitusajan arviointi:** Määritä realistisesti toimitusajat eri toimitustavoille.
 
 ## Vaihe 5: Testaus ja optimointi (viikko 51)
 
-- **Toiminnallisuuksien testaus:** Testataan kaikki verkkokaupan toiminnot (ostoskori, maksu, rekisteröityminen).
-- **SEO-optimointi:** Optimoidaan sivusto hakukoneille (avainsanat, metatieto).
-- **Responsiivisuuden testaus:** Varmistaan, että verkkokauppa toimii hyvin eri laitteilla.
+**Testaus ja kehittäminen:**
+
+*   **Toiminnallisuuksien perusteellinen testaus:** Kaikki verkkokaupan toiminnot (ostoskori, maksu, rekisteröityminen, tuotteiden haku, kategorianäkymät jne.) testattiin huolellisesti eri selaimilla ja laitteilla. Kaikki havaitut virheet korjattiin välittömästi.
+*   **SEO-optimoinnin aloittaminen:** Aloitettiin sivuston SEO-optimointi keskittyen tärkeimpiin avainsanoihin. Määriteltiin sivukohtaiset metatiedot (otsikko, kuvaus) ja parannettiin sisällön rakennetta.
+*   **Responsiivisuuden varmistaminen:** Varmistettiin, että verkkokauppa näyttää ja toimii hyvin eri näytönkokoisilla laitteilla (mobiili, tabletti, tietokone).
+
+**Tulokset:**
+
+*   **Toiminnallisuus:** Kaikki verkkokaupan toiminnot toimivat odotetusti.
+*   **SEO:** SEO-optimoinnilla on hyvä alku, mutta jatkokehitys on tarpeen.
+*   **Responsiivisuus:** Verkkokauppa toimii hyvin eri laitteilla, eikä merkittäviä ongelmia havaittu.
+
+**Muuta:**
+
+*   **Turhan median poisto:** Viikon aikana poistettiin turhaa mediaa (kuvia, videoita) parantaaksemme sivuston latausnopeutta.
+*   **Jatkotoimet:** Jatketaan SEO-optimointia ja seurataan sivuston suorituskykyä analytiikkatyökalujen avulla.
+
+**Tämän vaiheen tavoitteena oli:**
+
+*   Varmistaa, että verkkokauppa on valmis julkaistavaksi.
+*   Aloittaa sivuston optimointi hakukoneille.
+*   Parantaa käyttäjäkokemusta.
+
+**Yhteenveto:**
+
+Verkkokaupan testausvaihe on saatu päätökseen ja kaikki olennaiset toiminnot toimivat odotetusti. SEO-optimointi on hyvässä alussa ja responsiivisuus on kunnossa. Jatkossa keskitytään SEO-optimoinnin kehittämiseen ja käyttäjäpalautteen keräämiseen.
 
 ## Vaihe 6: Julkaisu ja seuranta (viikko 52)
 
-- **Verkkokaupan julkaisu:** Julkaistaan verkkokauppa tuotantoympäristöön.
-- **Analytiikkatyökalujen asennus:** Asennetaan muut tarvittavat työkalut.
-- **Koulutus:** Koulutetaan asiakas verkkokaupan käyttöön.
+**Julkaisu ja käyttöönotto:**
+
+*   **Verkkokaupan siirto tuotantoon:** Verkkokauppa siirrettiin onnistuneesti pilvipalvelimelle.
+*   **Julkaisu:** Verkkokauppa julkaistiin ja on nyt avoinna asiakkaille.
+*   **Ensimmäiset tilaukset:** Seurataan tarkasti ensimmäisiä tilauksia ja niiden käsittelyä.
+
+**Analytiikka:**
+
+*   **WooCommerce-analytiikan käyttöönotto:** WooCommerce-analytiikka on asennettu ja tuottaa ensimmäisiä tietoja verkkokaupan toiminnasta.
+*   **Muiden työkalujen harkinta:** Harkitaan muiden analytiikkatyökalujen (esim. Google Analytics, Google Search Console) käyttöönottoa laajemman kuvan saamiseksi.
+
+**Koulutus ja tuki:**
+
+*   **Peruskoulutus:** Asiakkaalle on annettu peruskoulutus verkkokaupan hallintapaneelin käyttöön.
+*   **Ylläpito-ohjeet:** Asiakkaalle on toimitettu kattavat ylläpito-ohjeet, joissa käydään läpi tärkeimmät toimenpiteet (tuotteiden lisääminen, tilausten hallinta jne.).
+*   **Tarpeen mukainen tuki:** Tarjoamme asiakkaalle jatkuvaa tukea tarpeen mukaan.
+
+**Tämän vaiheen tavoitteena oli:**
+
+*   Saada verkkokauppa toimimaan tuotantoympäristössä.
+*   Aloittaa verkkokaupan seuranta ja analysointi.
+*   Varmistaa, että asiakas osaa käyttää verkkokauppaa.
+
+**Tulokset:**
+
+*   Verkkokauppa on nyt avoinna asiakkaille.
+*   WooCommerce-analytiikka tuottaa ensimmäisiä tietoja.
+
+**Jatkotoimet:**
+
+*   **Analytiikan syventäminen:** Hyödynnetään WooCommerce-analytiikan tietoja ja harkitaan muiden työkalujen käyttöönottoa.
+*   **Käyttäjäpalautteen kerääminen:** Kerätään käyttäjäpalautetta verkkokaupan toiminnasta ja kehitetään sitä sen pohjalta.
+
+**Yhteenveto:**
+
+Verkkokauppa on nyt julkaistu ja ensimmäiset askeleet sen seurannassa on otettu. Jatkossa keskitytään verkkokaupan kehittämiseen ja kasvattamiseen.
