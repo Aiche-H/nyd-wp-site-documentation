@@ -5,9 +5,9 @@
 #### 1. Tuotteiden hallinta
 
 * **Tuotetietojen päivitys:** Päivitä tuotteiden hinnat, kuvaukset, varastotilanteet ja muut tiedot säännöllisesti. 
-    * [Image of Updating product details in WooCommerce]
+    * !["Existing stock quantity"](https://www.webtoffee.com/wp-content/uploads/2022/01/Existing-stock-quantity-1.png)
 * **Uusien tuotteiden lisääminen:** Lisää uusia tuotteita intuitiivisen käyttöliittymän avulla. Määritä tuotteen nimi, kuvaus, hinta, varasto, kategoriat ja muut olennaiset tiedot.
-    * [Image of Adding a new product in WooCommerce]
+    * !["Adding a product"](https://pluginrepublic.com/wp-content/uploads/2019/08/woocommerce-product-add-new.jpeg)
 * **Tuotevariantit:** Hallinnoi tuotteiden eri variaatioita (koko, väri jne.).
     * [Image of Creating product variations in WooCommerce]
 
